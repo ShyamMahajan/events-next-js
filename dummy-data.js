@@ -7,7 +7,7 @@ const DUMMY_EVENTS = [
       location: 'Somestreet 25, 12345 San Somewhereo',
       date: '2021-05-12',
       image: 'images/coding-event.jpg',
-      isFeatured: false,
+      isFeatured: true,
     },
     {
       id: 'e2',
@@ -27,7 +27,7 @@ const DUMMY_EVENTS = [
       location: 'My Street 12, 10115 Broke City',
       date: '2022-04-10',
       image: 'images/extrovert-event.jpg',
-      isFeatured: true,
+      isFeatured: false,
     },
   ];
   
